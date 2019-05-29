@@ -7,7 +7,7 @@ clusters:
 contexts:
 - context:
     cluster: ilon1
-    namespace: "07"
+    namespace: namespace07
     user: user7
   name: ilon1-context
 - context:
